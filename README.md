@@ -30,7 +30,7 @@ Nasze projekty:
 1. J Rajewicz
 1. J Rajewicz
 1. D Stoltmann
-1. AM Szostak
+1. [Anna Szostak](https://github.com/aniamaria)
 1. [Magdalena Sawicka][projekt](https://github.com/msawicka/worktime)
 1. D Uss
 1. [Jakub Wałek](https://github.com/qbaw), [projekty](https://github.com/qbaw/projekty)
